@@ -116,6 +116,4 @@ You should now be able to view the app in your browser.
 
 Feel free to contribute by opening an issue or submitting a pull request.
 
----
-
-This version ensures proper formatting and removes redundant lines to make it cleaner and more readable.
+-
